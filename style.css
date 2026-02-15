@@ -139,3 +139,7 @@ footer {
   text-align: center;
   padding: 15px;
 }
+
+nav ul li a.active {
+  border-bottom: 2px solid #ffd700;
+}
